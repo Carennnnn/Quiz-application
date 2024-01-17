@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="previous_button">PREV</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="next_button">NEXT</string>>
+    <string name="student_name">Student name: </string>
+    <string name="student_number">Student number: </string>
+    <string name="email_my_answer">EMAIL MY ANSWER</string>
+
+</resources>

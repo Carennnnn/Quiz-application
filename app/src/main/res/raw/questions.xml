@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+    <question id="1">
+        <question_text>
+            How to kill an activity in Android?
+        </question_text>
+        <choiceA>finish()</choiceA>
+        <choiceB>finishActivity(int requestCode)</choiceB>
+        <choiceC>A and B</choiceC>
+        <choiceD>kill()</choiceD>
+        <choiceE>None of the Above</choiceE>
+    </question>
+    <question id="2">
+        <question_text>
+            What is true about Android?
+        </question_text>
+        <choiceA>Android is an open source</choiceA>
+        <choiceB>Linux-based Operating System</choiceB>
+        <choiceC>Used in mobile devices such as smartphones and tablet computers.</choiceC>
+        <choiceD>All of the above</choiceD>
+        <choiceE>None of the above</choiceE>
+    </question>
+    <question id="3">
+        <question_text>
+            Android was developed by the?
+        </question_text>
+        <choiceA>Sun Microsystem</choiceA>
+        <choiceB>Open Handset Alliance</choiceB>
+        <choiceC>AT and T labs</choiceC>
+        <choiceD>Facebook</choiceD>
+        <choiceE>None of the above</choiceE>
+    </question>
+    <question id="4">
+        <question_text>
+            The first beta version of the Android Software Development Kit (SDK) was released by Google in?
+        </question_text>
+        <choiceA>2010</choiceA>
+        <choiceB>2009</choiceB>
+        <choiceC>2006</choiceC>
+        <choiceD>2008</choiceD>
+        <choiceE>2007</choiceE>
+    </question>
+    <question id="5">
+        <question_text>
+            In Which application Android applications are usually developed?
+        </question_text>
+        <choiceA>C</choiceA>
+        <choiceB>Python</choiceB>
+        <choiceC>Java</choiceC>
+        <choiceD>Ruby</choiceD>
+        <choiceE>C++</choiceE>
+    </question>
+    <question id="6">
+        <question_text>
+            The XML file that contains all the text that your application uses
+        </question_text>
+        <choiceA>stack.xml</choiceA>
+        <choiceB>text.xml</choiceB>
+        <choiceC>strings.xml</choiceC>
+        <choiceD>string.java</choiceD>
+        <choiceE>source.xml</choiceE>
+    </question>
+    <question id="7">
+        <question_text>
+            Parent class of Activity?
+        </question_text>
+        <choiceA>object</choiceA>
+        <choiceB>context</choiceB>
+        <choiceC>activityGroup</choiceC>
+        <choiceD>contextThemeWrapper</choiceD>
+        <choiceE>values</choiceE>
+    </question>
+    <question id="8">
+        <question_text>
+            What are the Direct subclasses of Activity?
+        </question_text>
+        <choiceA>Account Authenticator Activity</choiceA>
+        <choiceB>Activity Group</choiceB>
+        <choiceC>Expandable List Activity</choiceC>
+        <choiceD>Fragment Activity</choiceD>
+        <choiceE>All the above</choiceE>
+    </question>
+    <question id="9">
+        <question_text>
+            When did Google purchase Android?
+        </question_text>
+        <choiceA>2007</choiceA>
+        <choiceB>2005</choiceB>
+        <choiceC>2008</choiceC>
+        <choiceD>2009</choiceD>
+        <choiceE>2010</choiceE>
+    </question>
+    <question id="10">
+        <question_text>
+            Which company bought android?
+        </question_text>
+        <choiceA>Google</choiceA>
+        <choiceB>No company</choiceB>
+        <choiceC>Nokia</choiceC>
+        <choiceD>Apple</choiceD>
+        <choiceE>IBM</choiceE>
+    </question>
+    <email_address>
+        yuelinliu@cmail.carleton.ca
+    </email_address>
+</test>
